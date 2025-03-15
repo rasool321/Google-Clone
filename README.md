@@ -67,7 +67,7 @@ Google-Clone/
 Take a look at the UI! 👀
 
 ### 🏠 Home Page
-![Home Page](images/homepage.png)
+![Home Page](images/index.png)
 
 ### 🖼️ Image Search Page
 ![Image Search](images/image_search.png)
