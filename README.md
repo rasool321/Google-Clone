@@ -1,52 +1,58 @@
-# Google Clone
+# 🌍 Google Clone
 
-A simple clone of Google Search, Image Search, and Advanced Search using HTML and CSS.
+A sleek and minimalistic clone of Google Search, Image Search, and Advanced Search, built using **HTML & CSS**.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+## 📌 Table of Contents
+- [🔍 Overview](#-overview)
+- [✨ Features](#-features)
+- [🛠 Technologies Used](#-technologies-used)
+- [🚀 Setup Instructions](#-setup-instructions)
+- [📖 Usage](#-usage)
+- [📁 Folder Structure](#-folder-structure)
+- [📸 Screenshots](#-screenshots)
+- [💡 Future Enhancements](#-future-enhancements)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
-## Overview
-This project is a frontend replica of Google Search with additional functionalities such as Image Search and Advanced Search. Users can perform searches directly using the Google search engine.
+## 🔍 Overview
+This project is a simple yet **visually appealing clone** of Google's search functionality. It includes basic search, **Image Search**, and **Advanced Search**, allowing users to perform searches directly using Google's search engine.
 
-## Features
-- Google Search functionality
-- Image Search feature
-- Advanced Search options
-- Responsive design
-- Styled to resemble the original Google interface
+## ✨ Features
+✔️ Google-like Search UI  
+✔️ Image Search Functionality  
+✔️ Advanced Search Options  
+✔️ Responsive & Clean Design  
+✔️ Hover Effects for Better UX  
+✔️ Lightweight & Fast Performance  
 
-## Technologies Used
-- HTML
-- CSS
+## 🛠 Technologies Used
+- **HTML** 🏗️ (Structure)
+- **CSS** 🎨 (Styling)
 
-## Setup Instructions
-1. Clone the repository:
+## 🚀 Setup Instructions
+1. **Clone the repository**
    ```sh
    git clone https://github.com/rasool321/Google-Clone.git
    ```
-2. Navigate to the project folder:
+2. **Navigate to the project folder**
    ```sh
    cd Google-Clone
    ```
-3. Open `index.html` in your preferred web browser.
+3. **Open `index.html` in your browser** and start searching!
 
-## Usage
-- Open `index.html` to access the Google Search Clone.
-- Click on `Image Search` for image-specific searches.
-- Click on `Advanced Search` for more refined search queries.
+## 📖 Usage
+💻 **How to use the Google Clone?**
+- Open `index.html` to access the **Google Search Clone**.
+- Click on **Image Search** for **image-based searches**.
+- Click on **Advanced Search** for **refined query options**.
 
-## Folder Structure
+## 📁 Folder Structure
 ```
 Google-Clone/
+│-- images/
+│   ├── homepage.png
+│   ├── image_search.png
+│   ├── advanced_search.png
 │-- index.html
 │-- styles.css
 │-- image_search/
@@ -57,17 +63,26 @@ Google-Clone/
 │   ├── styles2.css
 ```
 
-## Screenshots
+## 📸 Screenshots
+Take a look at the UI! 👀
 
+### 🏠 Home Page
+![Home Page](images/homepage.png)
 
-## Future Enhancements
-- Improve UI to match Google's latest design.
-- Add JavaScript for a more dynamic experience.
-- Implement backend functionality for storing search history.
+### 🖼️ Image Search Page
+![Image Search](images/image_search.png)
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+### ⚙️ Advanced Search Page
+![Advanced Search](images/advanced_search.png)
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+## 💡 Future Enhancements
+🔹 **Enhance UI** to match the latest Google design trends.  
+🔹 **Add JavaScript** to improve interactivity.  
+🔹 **Implement Dark Mode** for better UX.  
+🔹 **Backend Support** to store search history.  
 
+## 🤝 Contributing
+🚀 Contributions are welcome! If you’d like to improve this project, feel free to **fork the repo**, make changes, and **submit a pull request**.  
+
+## 📜 License
+📄 This project is open-source and available under the [MIT License](LICENSE).
