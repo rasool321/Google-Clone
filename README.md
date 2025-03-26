@@ -16,6 +16,7 @@ A sleek and minimalistic clone of Google Search, Image Search, and Advanced Sear
 
 ## 🔍 Overview
 This project is a simple yet **visually appealing clone** of Google's search functionality. It includes basic search, **Image Search**, and **Advanced Search**, allowing users to perform searches directly using Google's search engine.
+[Live Preview][https://rasool321.github.io/Google-Clone/]
 
 ## ✨ Features
 ✔️ Google-like Search UI  
